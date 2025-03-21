@@ -17,4 +17,4 @@ Data sources original links
   a). by state
     - internet presence by state, original data from: https://www.data.gov.in/resource/stateut-wise-details-internet-penetration-internet-subscribers-100-population-urbanrural
       - 1 csv file downloaded, *plenty more data available at data.gov.in*
-      -`internet_by_state_2024.csv` small dataset organized by state (37, 8)
+      - `internet_by_state_2024.csv` small dataset organized by state (37, 8)
