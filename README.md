@@ -13,7 +13,7 @@ Data sources original links
     - this data zooms in at India-specific data, original from this link: https://microdata.worldbank.org/index.php/catalog/4653/get-microdata
       - 1 csv file directly downloaded (after registration wall)
       - **`micro_india` is raw data from the world bank group survey on financial inclusion in india (3000, 119)**
-3. data.gov.in
+2. data.gov.in
   - a). by state
     - internet presence by state, original data from: https://www.data.gov.in/resource/stateut-wise-details-internet-penetration-internet-subscribers-100-population-urbanrural
       - 1 csv file downloaded, *plenty more data available at data.gov.in*
