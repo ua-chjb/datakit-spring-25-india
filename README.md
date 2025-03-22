@@ -8,7 +8,7 @@ Data sources original links
     - `global_india.csv` filters based on just India (4, 1232)
     - `global_byregion.csv` filters based on region-level aggregates, ie Southeast Asia, Africa, Latin America, etc (63, 1232); for comparisons
  - b). country-specific view:this data zooms in at India-specific data, original from this link: https://microdata.worldbank.org/index.php/catalog/4653/get-microdata
-    - **`micro_india` is raw data from the world bank group survey on financial inclusion in india (3000, 119)**
-2. data.gov.in
-  - a). by state: internet presence by state, original data from: https://www.data.gov.in/resource/stateut-wise-details-internet-penetration-internet-subscribers-100-population-urbanrural
+    - `micro_india` is raw data from the world bank group survey on financial inclusion in india (3000, 119)
+2. data.gov.in - *plenty more data from here to be found, downloaded, and merged by state*
+  - a). by state/UT: internet presence, original data from: https://www.data.gov.in/resource/stateut-wise-details-internet-penetration-internet-subscribers-100-population-urbanrural
     - `internet_by_state_2024.csv` small dataset organized by state (37, 8)
