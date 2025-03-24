@@ -1,7 +1,7 @@
 # datakit-spring-25-india
-data sources for financial inclusion, focus India
+Financial inclusion, focus India
 
-Data sources original links
+Original links of data sources
 1. World Bank Group
  - a). global view: this data is global, aggregated at the country level, with a large number of columns, mostly encoded variables (658, 1232). original data from this link:  https://www.worldbank.org/en/publication/globalfindex/Data
     - `global_all.csv` whole dataset (mostly not India) (658, 1232)
