@@ -12,3 +12,5 @@ Original links of data sources
 2. data.gov.in - *plenty more data from here to be found, downloaded, and merged by state*
   - a). by state/UT: internet presence, original data from: https://www.data.gov.in/resource/stateut-wise-details-internet-penetration-internet-subscribers-100-population-urbanrural
     - `internet_by_state_2024.csv` small dataset organized by state (37, 8)
+3. All India Debt & Investment Survey 77th round (link: https://microdata.gov.in/nada43/index.php/catalog/156)
+ - Data on household assets, liabilities, and capital expenditure, offering insights into economic conditions and credit structures across rural and urban India.
