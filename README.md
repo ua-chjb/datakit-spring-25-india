@@ -7,3 +7,4 @@ name / source / granularity / description
 - `micro_india.csv` / World Bank Group / country, at the country level / another gallup survey on financial inclusion, no coded features, around 100 features
 - `internet_by_state_2024.csv` / data.gov.in / country, at the state level / data from government source on "teledensity" and "subscribers", only about 10 features
 - `https://microdata.gov.in/nada43/index.php/catalog/156` / microdata.gov.in / Data on household assets, liabilities, and capital expenditure, offering insights into economic conditions and credit structures across rural and urban India
+- +
