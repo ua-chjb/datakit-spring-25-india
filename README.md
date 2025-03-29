@@ -8,3 +8,5 @@ name / link / source / granularity / description
 - `internet_by_state_2024.csv` / https://www.data.gov.in/resource/stateut-wise-details-internet-penetration-internet-subscribers-100-population-urbanrural / data.gov.in / state level / data from government source on "teledensity" and "subscribers", only about 10 features
 - https://microdata.gov.in/nada43/index.php/catalog/156 / microdata.gov.in / Data on household assets, liabilities, and capital expenditure, offering insights into economic conditions and credit structures across rural and urban India
 - ...
+
+(for more datasets, including field descriptions, see (open/closed) issues here, and/or [DataKind GitHub > India](https://github.com/datakind/datakit-financial-inclusion-2025/discussions/4) (copy-pasted))
