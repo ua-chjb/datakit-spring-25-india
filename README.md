@@ -1,6 +1,8 @@
 # datakit-spring-25-india
 Financial inclusion, focus on India
 
+# newer github repository: https://github.com/ua-chjb/datakit-financial-inclusion-2025
+
 name / link / source / granularity / description
 
 - `global_byregion.csv` /https://www.worldbank.org/en/publication/globalfindex/Data /  World Bank Group / country level / huge gallup survey on financial inclusion, more than 1000 features, including many coded features
